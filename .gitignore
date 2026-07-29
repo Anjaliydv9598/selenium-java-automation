@@ -1,0 +1,31 @@
+# Compiled files
+*.class
+
+# Logs
+*.log
+
+# Maven
+target/
+
+# Gradle
+build/
+
+# IDE files
+.idea/
+*.iml
+.project
+.classpath
+.settings/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Selenium drivers (optional)
+*.exe
+*.zip
+
+# Test reports
+test-output/
+allure-results/
+allure-report/
